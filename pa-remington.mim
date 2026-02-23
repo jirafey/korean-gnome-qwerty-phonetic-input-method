@@ -78,8 +78,8 @@
 ("bs" (set T 0x11B9) ?ㅄ (compose)))
 
 (V
-("ee" (set V 0x1164) ?ㅒ (compose-vowel))
-("ww" (set V 0x1168) ?ㅖ (compose-vowel))
+("ye" (set V 0x1164) ?ㅒ (compose-vowel))
+("yw" (set V 0x1168) ?ㅖ (compose-vowel))
 ("oa" (set V 0x116A) ?ㅘ (compose-vowel))
 ("oe" (set V 0x116B) ?ㅙ (compose-vowel))
 ("oi" (set V 0x116C) ?ㅚ (compose-vowel))
