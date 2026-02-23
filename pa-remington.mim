@@ -79,38 +79,29 @@
 
 (V
 ("a" (set V 0x1161) ?ㅏ (compose-vowel))
-("aa" (set V 0x1163) ?ㅑ (compose-vowel))
-("f" (set V 0x1163) ?ㅑ (compose-vowel))
-
 ("w" (set V 0x1162) ?ㅐ (compose-vowel))
 ("ww" (set V 0x1164) ?ㅒ (compose-vowel))
-
+("f" (set V 0x1163) ?ㅑ (compose-vowel))
 ("o" (set V 0x1165) ?ㅓ (compose-vowel))
 ("oo" (set V 0x1167) ?ㅕ (compose-vowel))
-("y" (set V 0x1167) ?ㅕ (compose-vowel))
-
 ("e" (set V 0x1166) ?ㅔ (compose-vowel))
 ("ee" (set V 0x1168) ?ㅖ (compose-vowel))
-
 ("l" (set V 0x1169) ?ㅗ (compose-vowel))
 ("ll" (set V 0x116D) ?ㅛ (compose-vowel))
+("y" (set V 0x1167) ?ㅕ (compose-vowel))
 ("v" (set V 0x116D) ?ㅛ (compose-vowel))
-
+("u" (set V 0x116E) ?ㅜ (compose-vowel))
+("uu" (set V 0x1172) ?ㅠ (compose-vowel))
+("q" (set V 0x1172) ?ㅠ (compose-vowel))
+("x" (set V 0x1173) ?ㅡ (compose-vowel))
+("i" (set V 0x1175) ?ㅣ (compose-vowel))
 ("la" (set V 0x116A) ?ㅘ (compose-vowel))
 ("lw" (set V 0x116B) ?ㅙ (compose-vowel))
 ("li" (set V 0x116C) ?ㅚ (compose-vowel))
-
-("u" (set V 0x116E) ?ㅜ (compose-vowel))
-("uu" (set V 0x1172) ?ㅠ (compose-vowel)))
-("q" (set V 0x1172) ?ㅠ (compose-vowel))
-
 ("uo" (set V 0x116F) ?ㅝ (compose-vowel))
 ("ue" (set V 0x1170) ?ㅞ (compose-vowel))
 ("ui" (set V 0x1171) ?ㅟ (compose-vowel))
-
-("x" (set V 0x1173) ?ㅡ (compose-vowel))
-("ux" (set V 0x1174) ?ㅢ (compose-vowel))
-("i" (set V 0x1175) ?ㅣ (compose-vowel))
+("ux" (set V 0x1174) ?ㅢ (compose-vowel)))
 
 (V-head
 ("a") ("w") ("f") ("o") ("e") ("y") ("l") ("v") ("u") ("q") ("x") ("i"))
